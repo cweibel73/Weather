@@ -1,0 +1,18 @@
+#stuff,#temper,#humid,#description {
+  font-size: 50px;
+  text-align: center;
+}
+
+img {
+  margin: auto;
+  display: block;
+  width: 300px;
+}
+
+button {
+  margin: auto;
+  display: block;
+}
+
+ 
+  
